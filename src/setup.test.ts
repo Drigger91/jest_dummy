@@ -20,6 +20,7 @@ describe('',()=>{
     test('',()=>console.log("describe block task 1"));
     test('',()=>console.log("describe block task 2"))
 })
+
 //Jest executes all describe handlers in a test file before it executes any of the actual tests.
 //point to remember while executing describe block 
 
